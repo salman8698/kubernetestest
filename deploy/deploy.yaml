@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: aamir490/veeru-image:38
+        image: aamir490/veeru-image:40
         ports:
         - containerPort: 8000
